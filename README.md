@@ -70,6 +70,13 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 Project ini merupakan project submission dari program Qwords Fullstack Developer Project Based Internship x Rakamin Academy. Project ini berupa Redesign Landing page dari Qwords.
 
 ## Cara setup atau installasi website
+Run git clone (my-project)
+cp .env.example to .env
+Run composer install
+Run npm install
+Run php artisan key:generate
+Run php artisan serve
+
 
 ## Tech stack
 Bahasa Pemograman : PHP v8.1.10
