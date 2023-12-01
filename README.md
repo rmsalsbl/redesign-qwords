@@ -12,6 +12,7 @@ Project ini merupakan project submission dari program Qwords Fullstack Developer
 
 ## Tech stack
 Bahasa Pemograman : PHP v8.1.10
+
 Framework/Component : 
  - [Laravel v10.33.0](https://laravel.com/)
  - [Bootstrap](https://getbootstrap.com/)
